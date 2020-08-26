@@ -1,0 +1,10 @@
+{"siteId" : 101, "sales" : 11.11, "inventory" : 1, "incomingInv": 11, "date": "2020-08-26"}
+{"siteId" : 102, "sales" : 22.22, "inventory" : 2, "incomingInv": 12, "date": "2020-08-26"}
+{"siteId" : 103, "sales" : 33.33, "inventory" : 3, "incomingInv": 13, "date": "2020-08-26"}
+{"siteId" : 104, "sales" : 44.44, "inventory" : 4, "incomingInv": 14, "date": "2020-08-26"}
+{"siteId" : 105, "sales" : 55.55, "inventory" : 5, "incomingInv": 15, "date": "2020-08-26"}
+{"siteId" : 101, "sales" : 12.21, "inventory" : 11, "incomingInv": 11, "date": "2020-08-25"}
+{"siteId" : 102, "sales" : 23.32, "inventory" : 22, "incomingInv": 12, "date": "2020-08-25"}
+{"siteId" : 103, "sales" : 34.43, "inventory" : 33, "incomingInv": 13, "date": "2020-08-25"}
+{"siteId" : 104, "sales" : 45.54, "inventory" : 44, "incomingInv": 14, "date": "2020-08-24"}
+{"siteId" : 105, "sales" : 56.65, "inventory" : 55, "incomingInv": 15, "date": "2020-08-24"}
